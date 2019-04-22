@@ -1,6 +1,4 @@
 # coding=utf-8
-import yaml
-import os
 import csv
 
 #只支持单个VIP
